@@ -11,10 +11,10 @@ Steps:
 ---
 
 Top news sources:
-[[https://github.com/vinsis/ptt-news-analysis/blob/master/images/ptt_news_sources_top_15.png]]
+![](https://github.com/vinsis/ptt-news-analysis/blob/master/images/ptt_news_sources_top_15.png)
 
 Upvotes vs forwards
-[[https://github.com/vinsis/ptt-news-analysis/blob/master/images/ptt_upvotes_forwards.png]]
+![](https://github.com/vinsis/ptt-news-analysis/blob/master/images/ptt_upvotes_forwards.png)
 
 tSNE of news content:
-[[https://github.com/vinsis/ptt-news-analysis/blob/master/images/tsne.png]]
+![](https://github.com/vinsis/ptt-news-analysis/blob/master/images/tsne.png)
